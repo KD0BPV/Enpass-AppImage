@@ -1,0 +1,6 @@
+<mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
+  <mime-type type="application/enpasscard">
+    <comment>Enpass Sharing File</comment>
+    <glob pattern="*.enpasscard"/>
+  </mime-type>
+</mime-info>
